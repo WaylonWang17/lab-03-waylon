@@ -1,5 +1,8 @@
 # CMPUT 301 : Lab 3 Participation Exercise
 
+Name: Waylon Wang
+CCID: waylon1
+
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
